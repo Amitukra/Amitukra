@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine learning and Artificial Intelligence**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amit-kumar-verma-77182022b/](https://www.linkedin.com/in/amit-kumar-verma-77182022b/)
+- 👨‍💻 All of my projects are available at (https://github.com/Amitukra?tab=repositories)
 
 - 💬 Ask me about **SQL, Python, Numpy, Pandas, Matplotlib, Seaborn, Data Analysis, Data Science**
 
