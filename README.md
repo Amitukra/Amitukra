@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amit-kumar-verma-77182022b/](https://www.linkedin.com/in/amit-kumar-verma-77182022b/)
 
-- 💬 Ask me about **SQL, Python**
+- 💬 Ask me about Data Analysis
 
 - 📫 How to reach me **amitkumarvarma62000@gmail.com**
 
